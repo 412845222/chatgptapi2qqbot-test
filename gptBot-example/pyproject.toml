@@ -1,0 +1,14 @@
+[project]
+name = "gptBot"
+version = "0.1.0"
+description = "gptBot"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    
+]
+plugins = []
+plugin_dirs = ["src/plugins"]
+builtin_plugins = []
